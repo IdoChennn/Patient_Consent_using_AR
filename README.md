@@ -5,7 +5,8 @@ C#, 3D slicer, Unity, MRTK2 packages, HoloLens1 and 2
 # Some demos
 ![image](https://user-images.githubusercontent.com/106355448/200961625-8811f640-5da9-4ede-8420-f46fd877e20c.png)
 
-The 3D object of the aneurysm and vein segmented from 3D Slicer can be successfully load in unity and deployed on HoloLens
+- The 3D object of the aneurysm and vein segmented from 3D Slicer can be successfully load in unity and deployed on HoloLens
+
 ![image](https://user-images.githubusercontent.com/106355448/200961643-466ca4ed-cbb2-4ab1-b437-b8127f1c08a3.png)
 
-Figure2. Say “red” to change the color of this vein object to red
+-Figure2. Say “red” to change the color of this vein object to red
