@@ -9,4 +9,4 @@ C#, 3D slicer, Unity, MRTK2 packages, HoloLens1 and 2
 
 ![image](https://user-images.githubusercontent.com/106355448/200961643-466ca4ed-cbb2-4ab1-b437-b8127f1c08a3.png)
 
--Figure2. Say “red” to change the color of this vein object to red
+- Figure2. Say “red” to change the color of this vein object to red
